@@ -23,15 +23,14 @@ Publication
 --
 
 [News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns](https://papersearch.net/thesis/article.asp?key=3948237)
-
-Recommended citation: Zhang, Yujie, and Deokwoo Nam. 2022. "News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns." JOURNAL OF ECONOMIC RESEARCH 27, no. 1: 1-22.
-
-[Download here](http://yujiezhangecon.github.io/files/ZhangNam_00_main.pdf) <br>
+- Recommended citation: Zhang, Yujie, and Deokwoo Nam. 2022. "News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns." JOURNAL OF ECONOMIC RESEARCH 27, no. 1: 1-22.
+- [Download here](http://yujiezhangecon.github.io/files/ZhangNam_00_main.pdf) <br>
 
 Working Papers and Work in Progress
 --
 
-"Natural Disasters, School System Resilience, and Educational Outcomes in Asia", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang
+"Are Disasters Disastrous for Learning? Evidence from Seven Asian Countries", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang 
+- Presentations: [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific), [Penn-Houston Climate, Environment, and Child Development Workshop](https://www.pop.upenn.edu/events/2023/12/01/penn-houston-climate-environment-and-child-development-workshop), [PAA 2024](https://www.populationassociation.org/paa2024/call-for-papers)
 
 "Gender-differed Sibling Effect on Health Outcomes" 
 
