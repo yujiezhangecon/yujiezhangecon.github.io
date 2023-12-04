@@ -26,25 +26,25 @@ B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/
 <!-- 
 ### Working Papers and Work in Progress
 
-"Natural Disasters, School System Resilience, and Educational Outcomes in Asia", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang
+"Are Disasters Disastrous for Learning? Evidence from Seven Asian Countries", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang (Presentations: [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific), 
 
 "Gender-differed Sibling Effect on Health Outcomes"
 
 ### Research Experience
 -->
 
-Research Assistant, [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), Jan 2023 - present
+Doctoral Researcher, [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), Jan 2023 - present
 * Investigator: Emily Hannum, Jere Behrman, and Fan Wang
 * Title: [Climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615)
 * Partner: University of Pennsylvania, University of Houston, Asian Development Bank, Inter-American Development Bank, Regional Institute for Population Studies in Ghana, UNICEF, and World Bank
 
-Research Assistant, [Institute for Research on Women, Gender and Sexuality](https://uh.edu/class/ws/irwgs/), Jun 2022 - present
+Research Assistant, [Institute for Research on Women, Gender and Sexuality](https://uh.edu/class/ws/irwgs/), Jun 2022 - Jun 2023
 * Project: Census Household Pulse Survey data analysis, LGBTQ+ support project with [Montrose Center](https://montrosecenter.org/), domestic violence project
 * Track households' experience with hardship and recovery from the Pandemic in Houston/Harris County and how it differs by gender, sexual orientation, and household income level. 
 
 Research Assistant, Prof. Elaine M. Liu, University of Houston, Feb 2022
 * Project: Estimate how car accidents can be related to alcohol use and liver disease, and how they can be affected by the current environment compared to individual characteristics. 
-* Task: Cleaned data of car accident mortality related to alcohol use on the county-level for about 15 years, and liver disease mortality and morbility, mainly from FARS and NCHS dataset. 
+* Task: Cleaned data of car accident mortality related to alcohol use on the county level for about 15 years, and liver disease mortality and morbidity, mainly from FARS and NCHS datasets. 
 
 Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
 * Project: Estimate the relationship between local officials of China's prefecture-level cities, local economic development, and legal system construction. 
@@ -55,7 +55,7 @@ Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
 
 ### Instructor
 
-Ph.D. Math Camp, University of Houston, Summer 2021, Summer 2022
+Ph.D. Math Camp, University of Houston, Summer 2021, Summer 2022, Summer 2023
 
 ### Teaching Assistant 
 
@@ -64,7 +64,7 @@ Prof. Nathan J. Canen, University of Houston, Spring 2022
 
 Prof. Janet E. Kohlhase, University of Houston, Fall 2021
 * Microeconomics I (Ph.D. Level)
-* Evaluation: 5/5 regarding the teaching assistant was receptive to questions, 4.9/5 regarding the teaching assistant was available for assistance to students (department average was 4/5).
+* Evaluation: 5/5 regarding "the teaching assistant was receptive to questions", 4.9/5 regarding "the teaching assistant was available for assistance to students" (department average was 4/5).
 
 Prof. Eleanor Jawon Choi, Hanyang University, Mar 2017 - Jul 2018
 * Courses: Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development.  
