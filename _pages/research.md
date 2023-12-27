@@ -34,10 +34,9 @@ Working Papers and Work in Progress
 - [Slides](http://yujiezhangecon.github.io/files/ADBI_MICS_presentation.pdf) <br>
 - Presentations: 
 [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific), 
-PDRI-DevLab Workshop Series]
-(https://pdri-devlab.upenn.edu/event/pdri-devlab-workshop-series-emily-hannum/), 
+[PDRI-DevLab Workshop Series](https://pdri-devlab.upenn.edu/event/pdri-devlab-workshop-series-emily-hannum/), 
 [Penn-Houston Climate, Environment, and Child Development Workshop](https://www.pop.upenn.edu/events/2023/12/01/penn-houston-climate-environment-and-child-development-workshop), 
-[SWUFE, School of Economics Workshop],
+SWUFE School of Economics Workshop,
 [PAA 2024](https://www.populationassociation.org/paa2024/call-for-papers)
 
 "Gender-differed Sibling Effect on Health Outcomes" 
