@@ -9,6 +9,8 @@ author_profile: true
 
 ## Instructor
 
+Principles of Microeconomics (Undergraduate Level), University of Houston, Spring 2024 
+
 Ph.D. Math Camp, University of Houston, Summer 2021, Summer 2022, Summer 2023
 
 ## Teaching Assistant 
