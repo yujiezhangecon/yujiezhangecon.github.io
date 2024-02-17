@@ -37,7 +37,9 @@ Working Papers and Work in Progress
 [PDRI-DevLab Workshop Series](https://pdri-devlab.upenn.edu/event/pdri-devlab-workshop-series-emily-hannum/), 
 [Penn-Houston Climate, Environment, and Child Development Workshop](https://www.pop.upenn.edu/events/2023/12/01/penn-houston-climate-environment-and-child-development-workshop), 
 [SWUFE School of Economics Workshop](http://yujiezhangecon.github.io/files/research/PrjRDSE/SWUFE_workshop_231228.JPG),
-[PAA 2024](https://www.populationassociation.org/paa2024/call-for-papers)
+[Population Association of America (PAA) 2024 Annual Meeting](https://www.populationassociation.org/paa2024/call-for-papers), 
+[Population Association of Singapore (PAS) 2024 Annual Meeting](https://www.sgpopulation.org/pas-2024),
+[2024 Meeting of the Society of Economics of the Household (SEHO)](https://economics.smu.edu.sg/conference/seho2024)
 
 "Gender-differed Sibling Effect on Health Outcomes" 
 
