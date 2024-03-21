@@ -29,7 +29,7 @@ Publication
 Working Papers and Work in Progress
 --
 
-"Are Disasters Disastrous for Learning? Evidence from Seven Asian Countries", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang 
+"Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang 
 - [Draft](http://yujiezhangecon.github.io/files/research/PrjRDSE/ZBHMWDisasterLearningAsia.pdf) <br>
 - [Slides](http://yujiezhangecon.github.io/files/research/PrjRDSE/ADBI_MICS_presentation.pdf) <br>
 - Presentations: 
@@ -40,7 +40,9 @@ Working Papers and Work in Progress
 [Comparative & International Education Society (CIES) 2024](https://convention2.allacademic.com/one/cies/cies24/index.php?cmd=Online+Program+View+Session&selected_session_id=2100746&PHPSESSID=38u1ksu0g9iurddg8ia8mn3du2), 
 [Population Association of America (PAA) 2024 Annual Meeting](https://www.populationassociation.org/paa2024/call-for-papers), 
 [Population Association of Singapore (PAS) 2024 Annual Meeting](https://www.sgpopulation.org/pas-2024),
-[2024 Meeting of the Society of Economics of the Household (SEHO)](https://economics.smu.edu.sg/conference/seho2024)
+[2024 Meeting of the Society of Economics of the Household (SEHO)](https://economics.smu.edu.sg/conference/seho2024), 
+[2024 Asian Meeting of the Econometric Society in China (AMES)](https://www.econometricsociety.org/regional-activities/schedule/2024/06/28/2024-Asia-Meeting-Hangzhou-China#home)
+
 
 "Gender-differed Sibling Effect on Health Outcomes" 
 
