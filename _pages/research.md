@@ -42,7 +42,7 @@ Working Papers and Work in Progress
 [Population Association of Singapore (PAS) 2024 Annual Meeting](https://www.sgpopulation.org/pas-2024), 
 [2024 Meeting of the Society of Economics of the Household (SEHO)](https://economics.smu.edu.sg/conference/seho2024), 
 [2024 Asian Meeting of the Econometric Society in China (AMES)](https://www.econometricsociety.org/regional-activities/schedule/2024/06/28/2024-Asia-Meeting-Hangzhou-China#home) [(session link)](https://virtual.oxfordabstracts.com/#/event/6969/submission/426), 
-[Asian Economic Development Conference 2024](https://adb.eventsair.com/asian-economic-development-conference-2024) [(session link)](http://yujiezhangecon.github.io/files/research/PrjRDSE/AEDC2024_ProgramBook_29May.pdf)
+[Asian Economic Development Conference 2024](https://adb.eventsair.com/asian-economic-development-conference-2024) [(session link)](http://yujiezhangecon.github.io/files/research/PrjRDSE/AEDC2024_ProgramBook.pdf)
 
 
 
