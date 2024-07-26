@@ -30,8 +30,8 @@ Working Papers and Work in Progress
 --
 
 "Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang 
-- [Draft](http://yujiezhangecon.github.io/files/research/PrjRDSE/ZBHMWDisasterLearningAsia.pdf) <br>
-- [Slides](http://yujiezhangecon.github.io/files/research/PrjRDSE/ADBI_MICS_presentation.pdf) <br>
+- [Draft](http://yujiezhangecon.github.io/files/research/PrjRDSE/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf) <br>
+- [Slides](http://yujiezhangecon.github.io/files/research/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf) <br>
 - Presentations: 
 [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific), 
 [PDRI-DevLab Workshop Series](https://pdri-devlab.upenn.edu/event/pdri-devlab-workshop-series-emily-hannum/), 
@@ -44,7 +44,7 @@ Working Papers and Work in Progress
 [2024 Asian Meeting of the Econometric Society in China (AMES)](https://www.econometricsociety.org/regional-activities/schedule/2024/06/28/2024-Asia-Meeting-Hangzhou-China#home) [(session link)](https://virtual.oxfordabstracts.com/#/event/6969/submission/426), 
 [Asian Economic Development Conference 2024](https://adb.eventsair.com/asian-economic-development-conference-2024) [(session link)](http://yujiezhangecon.github.io/files/research/PrjRDSE/AEDC2024_ProgramBook.pdf)
 
-
+"The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India"
 
 "Gender-differed Sibling Effect on Health Outcomes" 
 
