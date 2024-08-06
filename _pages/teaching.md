@@ -11,6 +11,7 @@ author_profile: true
 
 Principles of Microeconomics (Undergraduate Level), University of Houston, Spring 2024 
 * [Evaluation report](http://yujiezhangecon.github.io/files/teaching/PrincipleMicro_24Spring/2220_14342_Course_Evaluation_Report.pdf)
+* [Syllabus](http://yujiezhangecon.github.io/files/teaching/PrincipleMicro_24Spring/Syllabus_ECON2302_S24_YujieZhang.pdf)
 
 Ph.D. Math Camp, University of Houston, Summer 2021, Summer 2022, Summer 2023
 
