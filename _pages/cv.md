@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here you can find my <a href="/files/cv/YujieZhang_CV.pdf">CV</a>.
+Download Link: <a href="/files/YujieZhang_CV_2408.pdf">CV</a>; <a href="/files/YujieZhang_Resume_2408.pdf">Resume</a>. 
 
 Education
 ------
@@ -33,10 +33,18 @@ B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/
 ### Research Experience
 -->
 
+Consultant, [Asian Development Bank](\href{https://www.adb.org/), Jul 2024 - present
+* Project: Strengthening Policies on Climate Change in Asia and the Pacific
+* Abstract: (1) Identify heat hot spots at both country level and within finer geographic units (major cities and metropolitan areas) in selected South and Southeast Asian countries. (2) Contribute new evidence on the impact of heat on health by exploring which populations are most at risk and quantify the economic costs of climate change in terms of working physical health and human capital. 
+* Data:
+	(1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
+	(2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/); 
+	(3) [UNICEF Multiple Indicator Cluster Surveys (MICS)](https://mics.unicef.org/) 
+
 Doctoral Researcher, [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), Jan 2023 - present
-* Investigator: Emily Hannum, Jere Behrman, and Fan Wang
-* Title: [Climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615)
-* Partner: University of Pennsylvania, University of Houston, Asian Development Bank, Inter-American Development Bank, Regional Institute for Population Studies in Ghana, UNICEF, and World Bank
+* Investigators: Emily Hannum, Jere Behrman, and Fan Wang
+* Abstract: [Climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615)
+* Partners: University of Pennsylvania, University of Houston, Asian Development Bank, Inter-American Development Bank, Regional Institute for Population Studies in Ghana, UNICEF, and World Bank
 
 Research Assistant, [Institute for Research on Women, Gender and Sexuality](https://uh.edu/class/ws/irwgs/), Jun 2022 - Jun 2023
 * Project: Census Household Pulse Survey data analysis, LGBTQ+ support project with [Montrose Center](https://montrosecenter.org/), domestic violence project
