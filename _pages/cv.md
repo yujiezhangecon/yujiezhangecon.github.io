@@ -33,7 +33,7 @@ B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/
 ### Research Experience
 -->
 
-Consultant, [Asian Development Bank](\href{https://www.adb.org/), *Jul 2024 - Present*
+Consultant, [Asian Development Bank](https://www.adb.org/), *Jul 2024 - Present*
 - Project: Strengthening Policies on Climate Change in Asia and the Pacific
 - Abstract: (1) Identify heat hot spots at both national and local levels (cities and metropolitan areas) in selected Asian countries. (2) Contribute new evidence on the health impacts of heat and quantify the economic costs of climate change in terms of physical health and human capital. 
 - Data:
@@ -47,23 +47,19 @@ Doctoral Researcher, [PIRE Project](https://beta.nsf.gov/funding/opportunities/p
 - Partners: University of Pennsylvania, University of Houston, Asian Development Bank, Inter-American Development Bank, Regional Institute for Population Studies in Ghana, UNICEF, and World Bank
 
 Research Assistant, [Institute for Research on Women, Gender and Sexuality](https://uh.edu/class/ws/irwgs/), *Jun 2022 - Jun 2023*
-<!-- 
-- Project: Census Household Pulse Survey data analysis, LGBTQ+ support project with [Montrose Center](https://montrosecenter.org/), domestic violence project
-- Tracked households' experience with hardship and recovery from the Pandemic in Houston/Harris County and how it differs by gender, sexual orientation, and household income level. 
--->
 - Summary: (1) Census Household Pulse Survey analysis: Tracked households' experience with hardship and recovery from the Pandemic in Houston/Harris County and how it differs by gender, sexual orientation, and household income level. (2) LGBTQ+ support project. 
 - Data: 
-	(1) \href{https://www.census.gov/householdpulsedata}{Census Household Pulse Survey};  
-    (2) Original data collected from \href{https://montrosecenter.org/}{Montrose Center} 
+	(1) [Census Household Pulse Survey](https://www.census.gov/householdpulsedata)  
+    (2) Original data collected from [Montrose Center](https://montrosecenter.org/) 
 
 Research Assistant, Prof. Elaine M. Liu, University of Houston, *Feb 2022*
 - Summary: Analyzed county-level data spanning 15 years on car accident mortality related to alcohol use, as well as mortality and morbidity from liver disease. 
 - Data: 
-	(1) \href{https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars}{Fatality Analysis Reporting System (FARS) data from National Highway Traffic Safety Administration (NHTSA)}; 
-	(2) \href{https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm}{National Health Interview Survey (NHIS)}; 
-	(3) \href{https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Mortality_Multiple}{Mortality Multiple Cause Files}; 
-	(4) \href{https://wonder.cdc.gov/mcd.html}{Multiple Cause of Death Data on CDC WONDER}; 
-	(5) \href{https://www.nber.org/research/data/mortality-data-vital-statistics-nchs-multiple-cause-death-data}{NBER Mortality Data}
+	(1) [Fatality Analysis Reporting System (FARS) data from National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars); 
+	(2) [National Health Interview Survey (NHIS)](https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm); 
+	(3) [Mortality Multiple Cause Files](https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Mortality_Multiple); 
+	(4) [Multiple Cause of Death Data on CDC WONDER](https://wonder.cdc.gov/mcd.html); 
+	(5) [NBER Mortality Data](https://www.nber.org/research/data/mortality-data-vital-statistics-nchs-multiple-cause-death-data)
 
 Research Assistant, Prof. Yuyu Chen, Peking University, *Nov - Dec 2020*
 - Summary: Completed data collection, collation, and cleaning for over 200 local officials from prefecture-level cities in the provinces of Guangdong, Shandong, Shanxi, and Neimenggu, for a project on local officials and economic development. 
