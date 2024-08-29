@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Download Link: <a href="/files/YujieZhang_CV_2408.pdf">CV</a>; <a href="/files/YujieZhang_Resume_2408.pdf">Resume</a>. 
+Download Link: <a href="/YujieZhang_CV_2408.pdf">CV</a> and <a href="/YujieZhang_Resume_2408.pdf">Resume</a>. 
 
 Education
 ------
 
-Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US, 2020 - present 
+Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US, 2025 (Expected) 
 
 M.A. in Economics and Finance, [Hanyang University](https://econ.hanyang.ac.kr/), Korea, 2018 
 
@@ -50,13 +50,13 @@ Research Assistant, [Institute for Research on Women, Gender and Sexuality](http
 * Project: Census Household Pulse Survey data analysis, LGBTQ+ support project with [Montrose Center](https://montrosecenter.org/), domestic violence project
 * Track households' experience with hardship and recovery from the Pandemic in Houston/Harris County and how it differs by gender, sexual orientation, and household income level. 
 
-Research Assistant, Prof. Elaine M. Liu, University of Houston, Feb 2022
-* Project: Estimate how car accidents can be related to alcohol use and liver disease, and how they can be affected by the current environment compared to individual characteristics. 
-* Task: Cleaned data of car accident mortality related to alcohol use on the county level for about 15 years, and liver disease mortality and morbidity, mainly from FARS and NCHS datasets. 
+Research Assistant, Prof. Elaine M. Liu, University of Houston, *Feb 2022*
+- Project: Estimate how car accidents can be related to alcohol use and liver disease, and how they can be affected by the current environment compared to individual characteristics. 
+- Task: Cleaned data of car accident mortality related to alcohol use on the county level for about 15 years, and liver disease mortality and morbidity, mainly from FARS and NCHS datasets. 
 
-Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
-* Project: Estimate the relationship between local officials of China's prefecture-level cities, local economic development, and legal system construction. 
-* Task: Completed the raw data collection, collation, and cleaning of more than 200 local officials of China's prefecture-level cities in provinces Guangdong, Shandong, Shanxi, and Neimenggu. 
+Research Assistant, Prof. Yuyu Chen, Peking University, *Nov - Dec 2020*
+- Project: Estimate the relationship between local officials of China's prefecture-level cities, local economic development, and legal system construction. 
+- Task: Completed the raw data collection, collation, and cleaning of more than 200 local officials of China's prefecture-level cities in provinces Guangdong, Shandong, Shanxi, and Neimenggu. 
 
 [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
 ------
