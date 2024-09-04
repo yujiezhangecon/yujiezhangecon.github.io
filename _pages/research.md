@@ -19,14 +19,7 @@ author_profile: true
 
 {% include base_path %}
 
-Publication
---
-
-[News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns](https://papersearch.net/thesis/article.asp?key=3948237)
-- Recommended citation: Zhang, Yujie, and Deokwoo Nam. 2022. "News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns." JOURNAL OF ECONOMIC RESEARCH 27, no. 1: 1-22.
-- [Download here](http://yujiezhangecon.github.io/files/ZhangNam.pdf) <br>
-
-Working Papers and Work in Progress
+Working Papers
 --
 
 "Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang 
@@ -37,7 +30,7 @@ Working Papers and Work in Progress
 [PDRI-DevLab Workshop Series](https://pdri-devlab.upenn.edu/event/pdri-devlab-workshop-series-emily-hannum/), 
 [Penn-Houston Climate, Environment, and Child Development Workshop](https://www.pop.upenn.edu/events/2023/12/01/penn-houston-climate-environment-and-child-development-workshop), 
 [SWUFE School of Economics Workshop](http://yujiezhangecon.github.io/files/PrjRDSE/SWUFE_workshop_231228.JPG), 
-[Comparative & International Education Society (CIES) 2024](https://convention2.allacademic.com/one/cies/cies24/index.php?cmd=Online+Program+View+Session&selected_session_id=2100746&PHPSESSID=38u1ksu0g9iurddg8ia8mn3du2), 
+[CIES 2024](https://convention2.allacademic.com/one/cies/cies24/index.php?cmd=Online+Program+View+Session&selected_session_id=2100746&PHPSESSID=38u1ksu0g9iurddg8ia8mn3du2), 
 [PAA 2024](https://www.populationassociation.org/paa2024/call-for-papers), 
 [PAS 2024](https://www.sgpopulation.org/pas-2024), 
 [SEHO 2024](https://economics.smu.edu.sg/conference/seho2024), 
@@ -46,5 +39,15 @@ Working Papers and Work in Progress
 
 "The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India"
 
+Work in Progress
+--
+
 "Gender-differed Sibling Effect on Health Outcomes" 
+
+Publication
+--
+
+[News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns](https://papersearch.net/thesis/article.asp?key=3948237)
+- Recommended citation: Zhang, Yujie, and Deokwoo Nam. 2022. "News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns." JOURNAL OF ECONOMIC RESEARCH 27, no. 1: 1-22.
+- [Link](http://yujiezhangecon.github.io/files/ZhangNam.pdf) <br>
 
