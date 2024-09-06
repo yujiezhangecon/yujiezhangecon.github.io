@@ -22,9 +22,9 @@ author_profile: true
 Working Papers
 --
 
-"Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang 
-- [Draft](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf) <br>
-- [Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf) <br>
+"Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries", with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang; **_Under Review_** 
+- [Draft](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf) <br> ; 
+[Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf) <br>
 - Presentations: 
 [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific), 
 [PDRI-DevLab Workshop Series](https://pdri-devlab.upenn.edu/event/pdri-devlab-workshop-series-emily-hannum/), 
@@ -47,7 +47,8 @@ Work in Progress
 Publication
 --
 
-[News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns](https://papersearch.net/thesis/article.asp?key=3948237)
-- Recommended citation: Zhang, Yujie, and Deokwoo Nam. 2022. "News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns." JOURNAL OF ECONOMIC RESEARCH 27, no. 1: 1-22.
-- [Link](http://yujiezhangecon.github.io/files/ZhangNam.pdf) <br>
+**News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns**, with Deokwoo Nam, *Journal of Economic Research*, 2022, 27(1), 1-22
+
+- [Journal link](https://papersearch.net/thesis/article.asp?key=3948237)
+- [PDF](http://yujiezhangecon.github.io/files/ZhangNam.pdf) <br>
 
