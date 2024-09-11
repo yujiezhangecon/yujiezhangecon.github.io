@@ -12,7 +12,7 @@ I am a Ph.D. Candidate in Economics at the [Universtity of Houston](https://www.
 
 I am a Doctoral Researcher for the [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), focusing on [climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615). I am also collaborating on research related to climate change and health with [Asian Development Bank](https://www.adb.org/). 
 
-You can view my <a href="/YujieZhang_CV_2408.pdf">CV</a> and <a href="/YujieZhang_Resume_2408.pdf">Resume</a>, or explore this [CV page](https://yujiezhangecon.github.io/cv/). 
+Please view my <a href="/YujieZhang_CV_2408.pdf">CV</a> and <a href="/YujieZhang_Resume_2408.pdf">Resume</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
 
 <!-- 
 
