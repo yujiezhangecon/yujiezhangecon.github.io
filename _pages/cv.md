@@ -46,7 +46,7 @@ Doctoral Researcher, [PIRE Project](https://beta.nsf.gov/funding/opportunities/p
 - Abstract: [Climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615)
 - Partners: University of Pennsylvania, University of Houston, Asian Development Bank, Inter-American Development Bank, Regional Institute for Population Studies in Ghana, UNICEF, and World Bank
 
-Research Assistant, [Institute for Research on Women, Gender and Sexuality](https://uh.edu/class/ws/irwgs/), *Jun 2022 - Jun 2023*
+Graduate Researcher, [Institute for Research on Women, Gender and Sexuality](https://uh.edu/class/ws/irwgs/), *Jun 2022 - Jun 2023*
 - Summary: (1) Census Household Pulse Survey analysis: Tracked households' experience with hardship and recovery from the Pandemic in Houston/Harris County and how it differs by gender, sexual orientation, and household income level. (2) LGBTQ+ support project. 
 - Data: 
 	(1) [Census Household Pulse Survey](https://www.census.gov/householdpulsedata)  
