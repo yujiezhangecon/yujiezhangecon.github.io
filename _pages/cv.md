@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download Link: <a href="/YujieZhang_CV_2408.pdf">CV</a> and <a href="/YujieZhang_Resume_2408.pdf">Resume</a>. 
+Download Link: <a href="/YujieZhang_CV.pdf">CV</a> and <a href="/YujieZhang_Resume.pdf">Resume</a>. 
 
 Education
 ------

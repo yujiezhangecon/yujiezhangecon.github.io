@@ -13,7 +13,7 @@ I am a Ph.D. Candidate in Economics at the [Universtity of Houston](https://www.
 As a Doctoral Researcher for the [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), I explore [climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615) (Investigators: [Emily Hannum](https://sociology.sas.upenn.edu/people/emily-hannum), [Jere Behrman](https://economics.sas.upenn.edu/people/jere-r-behrman), and [Fan Wang](https://fanwangecon.github.io/)). 
 I am also collaborating with [Minhaj Mahmud](https://blogs.adb.org/author/minhaj-mahmud) on climate change and human capital for [Asian Development Bank](https://www.adb.org/). 
 
-Please view my <a href="/YujieZhang_CV_2408.pdf">CV</a> and <a href="/YujieZhang_Resume_2408.pdf">Resume</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
+Please view my <a href="/YujieZhang_CV.pdf">CV</a> and <a href="/YujieZhang_Resume.pdf">Resume</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
 
 <!-- 
 
