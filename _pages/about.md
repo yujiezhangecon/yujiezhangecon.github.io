@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at the [Universtity of Houston](https://www.uh.edu/class/economics/), specializing in Applied Microeconomics. My research interests encompass environmental issues, health, education, family dynamics, and gender inequality, with a primary focus on developing countries. I explore the short- and long-term effects of climatic shocks on human capital, examining how these impacts vary by gender and socio-economic status. 
+I am a Ph.D. Candidate in Economics at the [Universtity of Houston](https://www.uh.edu/class/economics/), specializing in Applied Microeconomics. My research encompasses environment, health, education, and inequality, particularly in developing countries. Recent work investigates the short- and long-term effects of climatic shocks on human capital, highlighting disparities by gender and socio-economic status. 
 
-I am a Doctoral Researcher for the [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), focusing on [climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615). I am also collaborating on research related to climate change and health with [Asian Development Bank](https://www.adb.org/). 
+As a Doctoral Researcher for the [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), I explore [climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615) (Investigators: [Emily Hannum](https://sociology.sas.upenn.edu/people/emily-hannum), [Jere Behrman](https://economics.sas.upenn.edu/people/jere-r-behrman), and [Fan Wang](https://fanwangecon.github.io/)). 
+I am also collaborating with [Minhaj Mahmud](https://blogs.adb.org/author/minhaj-mahmud) on climate change and human capital for [Asian Development Bank](https://www.adb.org/). 
 
 Please view my <a href="/YujieZhang_CV_2408.pdf">CV</a> and <a href="/YujieZhang_Resume_2408.pdf">Resume</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
 
