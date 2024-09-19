@@ -20,14 +20,14 @@ Ph.D. Math Camp, University of Houston, _Summer 2021, 2022, 2023_
 ## Teaching Assistant 
 
 Prof. Nathan J. Canen, University of Houston, _Spring 2022_
-* Course: Econometrics I (Ph.D. Level) 
+* Course: Econometrics I **(Ph.D. Level)** 
 * Summary: Held TA session for Ph.D. students in Economics and Business school every week. 
 
 Prof. Janet E. Kohlhase, University of Houston, _Fall 2021_
-* Course: Microeconomics I (Ph.D. Level)
+* Course: Microeconomics I **(Ph.D. Level)**
 * Evaluation: 5/5 for "The teaching assistant was receptive to questions", 4.9/5 for "The teaching assistant was available for assistance to students" (department average: 4/5).
 
 Prof. Eleanor Jawon Choi, Hanyang University, _Mar 2017 - Jul 2018_
-* Courses: Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development. 
+* Courses: Applied Econometrics **(Graduate Level)**, Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development. 
 * Summary: (1) Graded problem sets and exams, and hosted office hours for more than 150 students each semester. (2) Assisted professor with course materials, attendance checking, monitoring exams, managing records and the statistics of students’ performance. 
 
