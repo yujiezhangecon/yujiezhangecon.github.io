@@ -11,6 +11,8 @@ redirect_from:
 
 Download Link: <a href="/YujieZhang_CV.pdf">CV</a> and <a href="/YujieZhang_Resume.pdf">Resume</a>. 
 
+
+
 Education
 ------
 
@@ -19,6 +21,8 @@ Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/
 M.A. in Economics and Finance, [Hanyang University](https://econ.hanyang.ac.kr/), Korea, *2018*
 
 B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, *2016*
+
+
 
 [Research Experience](https://yujiezhangecon.github.io/research/)
 ------
@@ -35,14 +39,18 @@ B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/
 
 Consultant, [Asian Development Bank](https://www.adb.org/), *Jul 2024 - Present*
 - Project: Strengthening Policies on Climate Change in Asia and the Pacific
-- Abstract: (1) Identify heat hot spots at both national and local levels (cities and metropolitan areas) in selected Asian countries. (2) Contribute new evidence on the health impacts of heat and quantify the economic costs of climate change in terms of physical health and human capital. 
+- Abstract: (1) Identify climate shock hotspots at national and local levels and population-weighted exposures. (2) Investigate the economic costs of climate change on human capital. 
+<!-- 
 - Data:
 	(1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
 	(2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/); 
 	(3) [UNICEF Multiple Indicator Cluster Surveys (MICS)](https://mics.unicef.org/) 
+-->
 
 Doctoral Researcher, [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), *Jan 2023 - Present*
+<!-- 
 - Investigators: Emily Hannum, Jere Behrman, and Fan Wang
+-->
 - Abstract: [Climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615)
 - Partners: University of Pennsylvania, University of Houston, Asian Development Bank, Inter-American Development Bank, Regional Institute for Population Studies in Ghana, UNICEF, and World Bank
 
@@ -61,8 +69,12 @@ Research Assistant, Prof. Elaine M. Liu, University of Houston, *Feb 2022*
 	(4) [Multiple Cause of Death Data on CDC WONDER](https://wonder.cdc.gov/mcd.html); 
 	(5) [NBER Mortality Data](https://www.nber.org/research/data/mortality-data-vital-statistics-nchs-multiple-cause-death-data)
 
+<!-- 
 Research Assistant, Prof. Yuyu Chen, Peking University, *Nov - Dec 2020*
 - Summary: Completed data collection, collation, and cleaning for over 200 local officials from prefecture-level cities in the provinces of Guangdong, Shandong, Shanxi, and Neimenggu, for a project on local officials and economic development. 
+-->
+
+
 
 [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
 ------
@@ -80,18 +92,26 @@ Prof. Nathan J. Canen, University of Houston, *Spring 2022*
 
 Prof. Janet E. Kohlhase, University of Houston, *Fall 2021*
 - Microeconomics I (Ph.D. Level)
+<!-- 
 - Evaluation: 5/5 regarding "the teaching assistant was receptive to questions", 4.9/5 regarding "the teaching assistant was available for assistance to students" (department average was 4/5).
+-->
 
 Prof. Eleanor Jawon Choi, Hanyang University, *Mar 2017 - Jul 2018*
 - Courses: Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development 
+<!-- 
 - Graded problem sets and exams for more than 150 students each semester, held office hour statistical software learning and collected feedback. Assisted professor with course materials, checking attendance of students, monitoring exams, managing records and the statistics of students’ performance. 
+-->
+
+
 
 Working Experience 
 ------
 
 Full-time Client Manager, Bank of Communications, Jiangsu, China, *Aug 2018 - Sep 2019*
 
-Summer Intern in Loans Department, China Construction Bank, Sichuan, China, *Jun - Aug 2017*
+Intern, Loans Department, China Construction Bank, Sichuan, China, *Jun - Aug 2017*
+
+
 
 Awards, Fellowships, and Services 
 ------

@@ -41,15 +41,20 @@ Working Papers
 [AMES 2024 Hangzhou, China](https://www.econometricsociety.org/regional-activities/schedule/2024/06/28/2024-Asia-Meeting-Hangzhou-China#home) [(session link)](https://virtual.oxfordabstracts.com/#/event/6969/submission/426), 
 [AEDC 2024](https://adb.eventsair.com/asian-economic-development-conference-2024) [(session link)](http://yujiezhangecon.github.io/files/PrjRDSE/AEDC2024_ProgramBook.pdf)
 
+
 Work in Progress
 --
 
-"Gender-differed Sibling Effect on Health Outcomes" 
+"Heat Stress and Air Pollution Hotspots: An Analysis of District-Level Trends in Selected Asian Countries" 
+- Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview)
+        (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/)
+
+"The Effect of Children Gender on Younger Siblings' Health Outcomes" 
 - Draft available upon request
+- Data: [Demographic and Health Surveys (DHS)](https://dhsprogram.com/data/)
 
-"Extreme Weathers and Children's Health in Asia" 
 
-Publication
+Publications
 --
 
 "News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns", with Deokwoo Nam, *Journal of Economic Research*, 2022, 27(1), 1-22
