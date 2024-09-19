@@ -39,7 +39,8 @@ B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/
 
 Consultant, [Asian Development Bank](https://www.adb.org/), *Jul 2024 - Present*
 - Project: Strengthening Policies on Climate Change in Asia and the Pacific
-- Abstract: (1) Identify climate shock hotspots at national and local levels and population-weighted exposures. (2) Investigate the economic costs of climate change on human capital. 
+- Abstract: (1) Identify climate shock hotspots at national and local levels and population-weighted exposures. (2) Investigate the economic costs of climate change on human capital.
+
 <!-- 
 - Data:
 	(1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
@@ -48,17 +49,19 @@ Consultant, [Asian Development Bank](https://www.adb.org/), *Jul 2024 - Present*
 -->
 
 Doctoral Researcher, [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), *Jan 2023 - Present*
+
 <!-- 
 - Investigators: Emily Hannum, Jere Behrman, and Fan Wang
 -->
+
 - Abstract: [Climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615)
 - Partners: University of Pennsylvania, University of Houston, Asian Development Bank, Inter-American Development Bank, Regional Institute for Population Studies in Ghana, UNICEF, and World Bank
 
 Graduate Researcher, [Institute for Research on Women, Gender and Sexuality](https://uh.edu/class/ws/irwgs/), *Jun 2022 - Jun 2023*
 - Summary: (1) Census Household Pulse Survey analysis: Tracked households' experience with hardship and recovery from the Pandemic in Houston/Harris County and how it differs by gender, sexual orientation, and household income level. (2) LGBTQ+ support project. 
 - Data: 
-	(1) [Census Household Pulse Survey](https://www.census.gov/householdpulsedata)  
-    (2) Original data collected from [Montrose Center](https://montrosecenter.org/) 
+	(1) [Census Household Pulse Survey](https://www.census.gov/householdpulsedata);
+	(2) Original data collected from [Montrose Center](https://montrosecenter.org/) 
 
 Research Assistant, Prof. Elaine M. Liu, University of Houston, *Feb 2022*
 - Summary: Analyzed county-level data spanning 15 years on car accident mortality related to alcohol use, as well as mortality and morbidity from liver disease. 
