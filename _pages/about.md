@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at the [Universtity of Houston](https://www.uh.edu/class/economics/), specializing in Applied Microeconomics. 
+I am a Ph.D. Candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/), specializing in Applied Microeconomics. 
 
 My research encompasses environment, health, education, labor, and inequality, particularly in developing countries. Recent work investigates the short- and long-term effects of climatic shocks on human capital, highlighting disparities by gender and socio-economic status. 
 
