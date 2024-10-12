@@ -60,7 +60,7 @@ Work in Progress
 Publications
 --
 
-"News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns", with Deokwoo Nam, _Journal of Economic Research_, 2022, 27(1), 1-22
+["News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns"](http://yujiezhangecon.github.io/files/ZhangNam.pdf), 
+with Deokwoo Nam, _Journal of Economic Research_, 2022, 27(1), 1-22
 
-- [Journal link](https://papersearch.net/thesis/article.asp?key=3948237); [PDF](http://yujiezhangecon.github.io/files/ZhangNam.pdf) <br>
-
+- [Journal link](https://papersearch.net/thesis/article.asp?key=3948237)
