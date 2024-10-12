@@ -57,9 +57,11 @@ Work in Progress
         (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/)
 
 "The Effect of Children Gender on Younger Siblings' Health Outcomes"
-- Draft available upon request
 - Data: [Demographic and Health Surveys (DHS)](https://dhsprogram.com/data/)
 
+<!---
+- Draft available upon request
+--->
 
 Publications
 --
