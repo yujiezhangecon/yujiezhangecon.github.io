@@ -23,16 +23,16 @@ author_profile: true
 ## Teaching Assistant 
 --->
 
-Teaching Assistant, Econometrics I **(Ph.D.)**, [Nathan J. Canen](https://sites.google.com/site/njcanen/home), University of Houston, _Spring 2022_ 
+Teaching Assistant, Econometrics I **(Ph.D.)**, [Prof. Nathan J. Canen](https://sites.google.com/site/njcanen/home), University of Houston, _Spring 2022_ 
 
 <!---
 * Held TA session for Ph.D. students in Economics and Business school every week. 
 --->
 
-Teaching Assistant, Microeconomics I **(Ph.D.)**, [Janet E. Kohlhase](https://www.uh.edu/~kohlhase/), University of Houston, _Fall 2021_
+Teaching Assistant, Microeconomics I **(Ph.D.)**, [Prof. Janet E. Kohlhase](https://www.uh.edu/~kohlhase/), University of Houston, _Fall 2021_
 * Evaluation: 5/5 for "The teaching assistant was receptive to questions", 4.9/5 for "The teaching assistant was available for assistance to students" (department average: 4/5).
 
-Teaching Assistant, [Eleanor Jawon Choi](https://sites.google.com/view/eleanorjchoi), Hanyang University, _Mar 2017 - Jul 2018_
+Teaching Assistant, [Prof. Eleanor Jawon Choi](https://sites.google.com/view/eleanorjchoi), Hanyang University, _Mar 2017 - Jul 2018_
 * Applied Econometrics **(Master/Ph.D.)**, Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development; 150+ students each semester.
 
 <!---
