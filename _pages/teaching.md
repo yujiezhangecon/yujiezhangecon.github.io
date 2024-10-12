@@ -11,7 +11,7 @@ author_profile: true
 --->
 
 **Instructor**, Principles of Microeconomics (Undergraduate Level), University of Houston, _Spring 2024_ 
-* [Evaluation](http://yujiezhangecon.github.io/files/teaching/PrincipleMicro_24Spring/2220_14342_Course_Evaluation_Report.pdf): Outperformed the department/college averages in 8 out of 14 questions; [Syllabus](http://yujiezhangecon.github.io/files/teaching/PrincipleMicro_24Spring/Syllabus_ECON2302_S24_YujieZhang.pdf); [Reflection on teaching](https://yujiezhang.notion.site/Reflection-on-Teaching-105791a2351880bd84f1efc28b6e6ed3).
+* [Evaluation](http://yujiezhangecon.github.io/files/teaching/PrincipleMicro_24Spring/2220_14342_Course_Evaluation_Report.pdf): Outperformed the department/college averages in 8 out of 14 questions; 75+ students; [Syllabus](http://yujiezhangecon.github.io/files/teaching/PrincipleMicro_24Spring/Syllabus_ECON2302_S24_YujieZhang.pdf); [Reflection on teaching](https://yujiezhang.notion.site/Reflection-on-Teaching-105791a2351880bd84f1efc28b6e6ed3).
 
 <!---
 * Summary: (1) Developed course materials, including syllabus, lecture slides, assignments, and exams. Delivered lectures twice a week, each 1.5 hours long. (2) Evaluation: Outperformed the department and college averages in 8 out of 14 evaluation questions, demonstrating strong teaching effectiveness. 
