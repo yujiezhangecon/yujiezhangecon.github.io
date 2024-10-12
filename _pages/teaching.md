@@ -21,13 +21,13 @@ author_profile: true
 ## Teaching Assistant 
 --->
 Teaching Assistant, Econometrics I **(Ph.D. Level)**, [Nathan J. Canen](https://sites.google.com/site/njcanen/home), University of Houston, _Spring 2022_ 
-* Summary: Held TA session for Ph.D. students in Economics and Business school every week. 
+* Held TA session for Ph.D. students in Economics and Business school every week. 
 
 Teaching Assistant, Microeconomics I **(Ph.D. Level)**, [Janet E. Kohlhase](https://www.uh.edu/~kohlhase/), University of Houston, _Fall 2021_
 * Evaluation: 5/5 for "The teaching assistant was receptive to questions", 4.9/5 for "The teaching assistant was available for assistance to students" (department average: 4/5).
 
 Teaching Assistant, [Eleanor Jawon Choi](https://sites.google.com/view/eleanorjchoi), Hanyang University, _Mar 2017 - Jul 2018_
-* Summary: Applied Econometrics **(Master/Ph.D. Level)**, Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development; 150+ students each semester.
+* Applied Econometrics **(Master/Ph.D. Level)**, Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development; 150+ students each semester.
 <!---
 * Summary: (1) Graded problem sets and exams, and hosted office hours for more than 150 students each semester. (2) Assisted professor with course materials, attendance checking, monitoring exams, managing records and the statistics of students’ performance.
 --->
