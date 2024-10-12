@@ -24,7 +24,10 @@ author_profile: true
 --->
 
 Teaching Assistant, Econometrics I **(Ph.D. Level)**, [Nathan J. Canen](https://sites.google.com/site/njcanen/home), University of Houston, _Spring 2022_ 
+
+<!---
 * Held TA session for Ph.D. students in Economics and Business school every week. 
+--->
 
 Teaching Assistant, Microeconomics I **(Ph.D. Level)**, [Janet E. Kohlhase](https://www.uh.edu/~kohlhase/), University of Houston, _Fall 2021_
 * Evaluation: 5/5 for "The teaching assistant was receptive to questions", 4.9/5 for "The teaching assistant was available for assistance to students" (department average: 4/5).
