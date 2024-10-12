@@ -33,7 +33,7 @@ Working Papers
 
 ["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf),
 with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _**Revise & Resubmit, Economics of Education Review**_
-- [Draft (2024 July)](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf); [Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf); Working paper version: ADBI Working Paper Series (forthcoming) <br>
+- [Draft (2024 July)](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf); [Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf) <br>
 - Presentations: 
 [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific), 
 [PDRI-DevLab Workshop Series](https://pdri-devlab.upenn.edu/event/pdri-devlab-workshop-series-emily-hannum/), 
