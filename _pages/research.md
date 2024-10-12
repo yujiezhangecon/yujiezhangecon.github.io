@@ -23,7 +23,7 @@ author_profile: true
 Working Papers
 --
 
-"The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India" _(Job Market Paper; draft coming soon)_
+"The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India" _[Job Market Paper; draft coming soon]_
 - Presentations:
 [2024 STATA Texas Empirical Microeconomics Conference](https://www.dallasfed.org/research/events/2024/24stata),
 [SEA 2024](https://sea.mymeetingsavvy.net/program),
@@ -31,7 +31,7 @@ Working Papers
 
 
 ["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf),
-with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _**Revise & Resubmit, Economics of Education Review**_
+with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Revise & Resubmit, Economics of Education Review**_
 - [Draft (2024 July)](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf); [Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf) <br>
 - Presentations: 
 [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific), 
@@ -66,4 +66,4 @@ Publications
 --
 
 ["News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns"](http://yujiezhangecon.github.io/files/ZhangNam.pdf), 
-with Deokwoo Nam, _Journal of Economic Research_, 2022, 27(1), 1-22 [_(Journal link)_](https://papersearch.net/thesis/article.asp?key=3948237)
+with Deokwoo Nam, _Journal of Economic Research_, 2022, 27(1), 1-22 [_[Journal link]_](https://papersearch.net/thesis/article.asp?key=3948237)
