@@ -41,8 +41,8 @@ with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _**Revise & Resubm
 [SWUFE School of Economics Workshop](http://yujiezhangecon.github.io/files/PrjRDSE/SWUFE_workshop_231228.JPG), 
 [CIES 2024](https://convention2.allacademic.com/one/cies/cies24/index.php?cmd=Online+Program+View+Session&selected_session_id=2100746&PHPSESSID=38u1ksu0g9iurddg8ia8mn3du2), 
 [PAA 2024](https://www.populationassociation.org/paa2024/call-for-papers), 
-[AMES 2024 Hangzhou, China](https://www.econometricsociety.org/regional-activities/schedule/2024/06/28/2024-Asia-Meeting-Hangzhou-China#home) [(session link)](https://virtual.oxfordabstracts.com/#/event/6969/submission/426), 
-[AEDC 2024](https://adb.eventsair.com/asian-economic-development-conference-2024) [(session link)](http://yujiezhangecon.github.io/files/PrjRDSE/AEDC2024_ProgramBook.pdf)
+[AMES 2024 Hangzhou, China](https://www.econometricsociety.org/regional-activities/schedule/2024/06/28/2024-Asia-Meeting-Hangzhou-China#home) [(session)](https://virtual.oxfordabstracts.com/#/event/6969/submission/426), 
+[AEDC 2024](https://adb.eventsair.com/asian-economic-development-conference-2024) [(session)](http://yujiezhangecon.github.io/files/PrjRDSE/AEDC2024_ProgramBook.pdf)
 
 <!---
 [PAS 2024](https://www.sgpopulation.org/pas-2024), 
