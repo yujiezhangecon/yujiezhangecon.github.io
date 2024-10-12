@@ -19,15 +19,20 @@ author_profile: true
 
 {% include base_path %}
 
+
 Working Papers
 --
 
-"The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India" (Job Market Paper)
-- Draft coming soon!
-- Presentations: [SEA 2024](https://sea.mymeetingsavvy.net/program), [AASLE 2024](https://www.aasle.org/bangkok-conference-info)
+"The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India"
+- Job Market Paper (draft coming soon)
+- Presentations:
+[2024 STATA Texas Empirical Microeconomics Conference](https://www.dallasfed.org/research/events/2024/24stata),
+[SEA 2024](https://sea.mymeetingsavvy.net/program),
+[AASLE 2024](https://www.aasle.org/bangkok-conference-info)
 
 
-["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf), with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _**Revise & Resubmit, Economics of Education Review**_
+["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf),
+with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _**Revise & Resubmit, Economics of Education Review**_
 - [Draft (2024 July)](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf); [Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf); Working paper version: ADBI Working Paper Series (forthcoming) <br>
 - Presentations: 
 [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific), 
@@ -43,7 +48,7 @@ Working Papers
 Work in Progress
 --
 
-"Population Burden of Rising Heat Stress and Pollution Risks" 
+"Population Burden of Rising Heat Stress and Pollution Risks", with Minhaj Mahmud 
 - Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview)
         (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/)
 
