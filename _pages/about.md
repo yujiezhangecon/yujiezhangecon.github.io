@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/), specializing in Applied Microeconomics. 
+I am a Ph.D. Candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/), specializing in the intersections of environmental issues and human capital through Applied Econometrics. 
 
+<!---
 My research encompasses environment, health, education, labor, and inequality, particularly in developing countries. Recent work investigates the short- and long-term effects of climatic shocks on human capital, highlighting disparities by gender and socio-economic status. 
+--->
 
-I collaborate with [Emily Hannum](https://sociology.sas.upenn.edu/people/emily-hannum), [Jere R. Behrman](https://economics.sas.upenn.edu/people/jere-r-behrman), and [Fan Wang](https://fanwangecon.github.io/), alongside scholars from University of Pennsylvania, University of Houston, and research institues such as UNICEF, Inter-American Development Bank, and World Bank, to explore climate risk, pollution, and childhood inequalities in low- and middle-income countries, sponsored by [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0). 
-I also work with [Minhaj Mahmud](https://blogs.adb.org/author/minhaj-mahmud) on climate change and human capital research for [Asian Development Bank](https://www.adb.org/). 
+I collaborate with [Emily Hannum](https://sociology.sas.upenn.edu/people/emily-hannum), [Jere R. Behrman](https://economics.sas.upenn.edu/people/jere-r-behrman), and [Fan Wang](https://fanwangecon.github.io/), alongside scholars from University of Pennsylvania, Inter-American Development Bank, and World Bank, to explore climate risk, pollution, and childhood inequalities in low- and middle-income countries, sponsored by [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0). 
+I also work with [Minhaj Mahmud](https://blogs.adb.org/author/minhaj-mahmud) on temperature, pollution, and social welfare for [Asian Development Bank](https://www.adb.org/). My recent work investigates the short- and long-term effects of natural disasters on education, health, and labor outcomes, highlighting disparities by gender and socio-economic status.
 
 Please view my <a href="/YujieZhang_CV.pdf">CV</a> and <a href="/YujieZhang_Resume.pdf">Resume</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
 
