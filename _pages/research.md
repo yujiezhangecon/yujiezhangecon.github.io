@@ -52,7 +52,7 @@ Work in Progress
 --
 
 "Population Burden of Rising Heat Stress and Pollution Risks", with Minhaj Mahmud 
-- Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview)
+- Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
         (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/)
 
 "The Effect of Children Gender on Younger Siblings' Health Outcomes"
