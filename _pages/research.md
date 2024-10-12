@@ -23,8 +23,7 @@ author_profile: true
 Working Papers
 --
 
-"The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India"
-- Job Market Paper (draft coming soon)
+"The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India" _(Job Market Paper; draft coming soon)_
 - Presentations:
 [2024 STATA Texas Empirical Microeconomics Conference](https://www.dallasfed.org/research/events/2024/24stata),
 [SEA 2024](https://sea.mymeetingsavvy.net/program),
@@ -67,4 +66,4 @@ Publications
 --
 
 ["News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns"](http://yujiezhangecon.github.io/files/ZhangNam.pdf), 
-with Deokwoo Nam, _Journal of Economic Research_, 2022, 27(1), 1-22 [(Journal link)](https://papersearch.net/thesis/article.asp?key=3948237)
+with Deokwoo Nam, _Journal of Economic Research_, 2022, 27(1), 1-22 [_(Journal link)_](https://papersearch.net/thesis/article.asp?key=3948237)
