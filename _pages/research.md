@@ -20,8 +20,7 @@ author_profile: true
 {% include base_path %}
 
 
-Working Papers
---
+### Working Papers
 
 "The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India" _[Job Market Paper; draft coming soon]_
 - Presentations:
@@ -48,8 +47,7 @@ with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Rev
 [SEHO 2024](https://economics.smu.edu.sg/conference/seho2024), 
 --->
 
-Work in Progress
---
+### Work in Progress
 
 "Population Burden of Rising Heat Stress and Pollution Risks", with Minhaj Mahmud 
 - Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
@@ -62,8 +60,7 @@ Work in Progress
 - Draft available upon request
 --->
 
-Publications
---
+### Publications
 
 ["News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns"](http://yujiezhangecon.github.io/files/ZhangNam.pdf), 
 with Deokwoo Nam, _Journal of Economic Research_, 2022, 27(1), 1-22 [_[Journal link]_](https://papersearch.net/thesis/article.asp?key=3948237)
