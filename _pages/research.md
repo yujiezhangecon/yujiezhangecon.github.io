@@ -22,7 +22,7 @@ author_profile: true
 
 ### Working Papers
 
-"The Long-Term Human Capital Consequences of Exposure to Natural Disasters: Evidence from India" _[Job Market Paper; draft coming soon]_
+"The Long-Term Human Capital Consequences of Natural Disasters: Evidence from India" _[Job Market Paper; draft coming soon]_
 - Presentations:
 [2024 STATA Texas Empirical Microeconomics Conference](https://www.dallasfed.org/research/events/2024/24stata);
 [SEA 2024](https://sea.mymeetingsavvy.net/program);
