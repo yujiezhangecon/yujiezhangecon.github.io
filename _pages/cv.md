@@ -13,10 +13,13 @@ Download Link: <a href="/YujieZhang_CV.pdf">CV</a>.
 
 <!---
 Download Link: <a href="/YujieZhang_CV.pdf">CV</a> and <a href="/YujieZhang_Resume.pdf">Resume</a>. 
---->
-
 Education
 ------
+[Research Experience](https://yujiezhangecon.github.io/research/)
+------
+--->
+
+#### Education
 
 Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US, *2025 (Expected)* 
 
@@ -24,9 +27,14 @@ M.A. in Economics and Finance, [Hanyang University](https://econ.hanyang.ac.kr/)
 
 B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, *2016*
 
+#### [Working Papers](https://yujiezhangecon.github.io/research/)
 
-[Research Experience](https://yujiezhangecon.github.io/research/)
-------
+"The Long-Term Human Capital Consequences of Natural Disasters: Evidence from India" _[Job Market Paper; draft coming soon]_
+
+["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf),
+with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Revise & Resubmit, Economics of Education Review**_
+
+### [Research Experience](https://yujiezhangecon.github.io/research/)
 
 Consultant, [Asian Development Bank](https://www.adb.org/), *Jul 2024 - Present*
 - Project: Strengthening Policies on Climate Change in Asia and the Pacific
@@ -57,36 +65,38 @@ Research Assistant, Prof. Yuyu Chen, Peking University, *Nov - Dec 2020*
 [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
 ------
 
-### Instructor
+#### Instructor
 
 Principles of Microeconomics (Undergraduate Level), University of Houston, *Spring 2024*
 
 **Ph.D. Math Camp**, University of Houston, *Summer 2021, Summer 2022, Summer 2023*
 
-### Teaching Assistant 
+#### Teaching Assistant 
 
-Econometrics I **(Ph.D. level)**, University of Houston, *Spring 2022*
-- Prof. Nathan J. Canen
+Econometrics I **(Ph.D. level)**, Prof. Nathan J. Canen, University of Houston, *Spring 2022*
 
-Microeconomics I **(Ph.D. level)**, University of Houston, *Fall 2021*
-- Prof. Janet E. Kohlhase
+Microeconomics I **(Ph.D. level)**, Prof. Janet E. Kohlhase, University of Houston, *Fall 2021*
 
 Prof. Eleanor Jawon Choi, Hanyang University, *Mar 2017 - Jul 2018*
 - Courses: Applied Econometrics **(Master/Ph.D. level)**, Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development 
-
 
 Working Experience 
 ------
 
 Client Manager, Bank of Communications, Jiangsu, China, *Aug 2018 - Sep 2019*
+- Served as vice organizer for the Suzhou Gusu branch in "Best Service Bank Branch" national competition, achieving "Four-Star" award from the China Banking Association.
 
 Intern, Loans Department, China Construction Bank, Sichuan, China, *Jun - Aug 2017*
 
+### Professional Activities 
 
-Awards, Fellowships, and Services 
-------
+Coordinator, [UH Econ Student Brown Bag Seminar](https://sites.google.com/view/uheconbbseminar), University of Houston, *2023 - 2024*
 
-Coordinator, [UH Econ Student Brown Bag Seminar](https://sites.google.com/view/uheconbbseminar), University of Houston, *Fall 2023, Spring 2024*
+Referee for _Journal of Economic Behavior and Organization_, _Environmental and Resource Economics_, _Economic Modelling_ 
+
+Discussant at Asian Economic Development Conference 2024; ADBI Conference on Increasing Resilience of Education Systems in Asia and the Pacific
+
+### Awards and Fellowships
 
 Cullen Graduate Fellowship Travel Grant, University of Houston, *Apr 2024*
 
