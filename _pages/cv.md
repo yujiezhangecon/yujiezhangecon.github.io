@@ -6,11 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-
-Download Link: <a href="/YujieZhang_CV.pdf">CV</a>. 
-
 <!---
 Download Link: <a href="/YujieZhang_CV.pdf">CV</a> and <a href="/YujieZhang_Resume.pdf">Resume</a>. 
 Education
@@ -22,8 +18,7 @@ Education
 Working Experience 
 ------
 --->
-
-### Education
+Download Link: <a href="/YujieZhang_CV.pdf">CV</a>. 
 
 Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US, *2025 (Expected)* 
 
