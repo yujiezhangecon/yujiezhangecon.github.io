@@ -29,7 +29,7 @@ Teaching Assistant, Econometrics I **(Ph.D.)**, [Prof. Nathan J. Canen](https://
 * Held TA session for Ph.D. students in Economics and Business school every week. 
 --->
 
-Teaching Assistant, Microeconomics I **(Ph.D.)**, [Prof. Janet E. Kohlhase](https://www.uh.edu/~kohlhase/), University of Houston, US, _Fall 2021_
+Teaching Assistant, Microeconomics Theory I **(Ph.D.)**, [Prof. Janet E. Kohlhase](https://www.uh.edu/~kohlhase/), University of Houston, US, _Fall 2021_
 * Evaluation: 5/5 for "The teaching assistant was receptive to questions", 4.9/5 for "The teaching assistant was available for assistance to students" (department average: 4/5).
 
 Teaching Assistant, [Prof. Eleanor Jawon Choi](https://sites.google.com/view/eleanorjchoi), Hanyang University, Korea, _Mar 2017 - Jul 2018_
