@@ -38,7 +38,7 @@ with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Rev
 Consultant, [Asian Development Bank](https://www.adb.org/), *Jul 2024 - Present*
 - Project: Strengthening Policies on Climate Change in Asia and the Pacific
 
-Doctoral Researcher, [PIRE Project](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), *Jan 2023 - Present*
+Doctoral Researcher, [PIRE Project funded by NSF](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0), *Jan 2023 - Present*
 
 - Abstract: [Climate risk, pollution, and childhood inequalities in low- and middle-income countries](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230615)
 - Partners: University of Pennsylvania, University of Houston, Asian Development Bank, Inter-American Development Bank, Regional Institute for Population Studies in Ghana, UNICEF, and World Bank
