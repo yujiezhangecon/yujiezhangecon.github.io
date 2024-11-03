@@ -19,7 +19,7 @@ Working Experience
 ------
 --->
 
-**Download Link: <a href="/YujieZhang_CV.pdf">CV</a>. **
+**Download Link: <a href="/YujieZhang_CV.pdf">CV</a>.**
 
 ### Education 
 
