@@ -17,9 +17,13 @@ Education
 ------
 [Research Experience](https://yujiezhangecon.github.io/research/)
 ------
+[Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
+------
+Working Experience 
+------
 --->
 
-#### Education
+### Education
 
 Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US, *2025 (Expected)* 
 
@@ -27,7 +31,7 @@ M.A. in Economics and Finance, [Hanyang University](https://econ.hanyang.ac.kr/)
 
 B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, *2016*
 
-#### [Working Papers](https://yujiezhangecon.github.io/research/)
+### [Working Papers](https://yujiezhangecon.github.io/research/)
 
 "The Long-Term Human Capital Consequences of Natural Disasters: Evidence from India" _[Job Market Paper; draft coming soon]_
 
@@ -61,9 +65,7 @@ Research Assistant, Prof. Yuyu Chen, Peking University, *Nov - Dec 2020*
 - Summary: Completed data collection, collation, and cleaning for over 200 local officials from prefecture-level cities in the provinces of Guangdong, Shandong, Shanxi, and Neimenggu, for a project on local officials and economic development. 
 -->
 
-
-[Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
-------
+### [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
 
 #### Instructor
 
@@ -80,8 +82,7 @@ Microeconomics I **(Ph.D. level)**, Prof. Janet E. Kohlhase, University of Houst
 Prof. Eleanor Jawon Choi, Hanyang University, *Mar 2017 - Jul 2018*
 - Courses: Applied Econometrics **(Master/Ph.D. level)**, Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development 
 
-Working Experience 
-------
+### Working Experience 
 
 Client Manager, Bank of Communications, Jiangsu, China, *Aug 2018 - Sep 2019*
 - Served as vice organizer for the Suzhou Gusu branch in "Best Service Bank Branch" national competition, achieving "Four-Star" award from the China Banking Association.
