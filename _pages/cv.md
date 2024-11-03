@@ -18,7 +18,10 @@ Education
 Working Experience 
 ------
 --->
-Download Link: <a href="/YujieZhang_CV.pdf">CV</a>. 
+
+**Download Link: <a href="/YujieZhang_CV.pdf">CV</a>. **
+
+### Education 
 
 Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US, *2025 (Expected)* 
 
