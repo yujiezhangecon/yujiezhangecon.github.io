@@ -65,19 +65,15 @@ Research Assistant, Prof. Yuyu Chen, Peking University, *Nov - Dec 2020*
 
 ### [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
 
-### Instructor
+**Instructor**, Principles of Microeconomics (Undergraduate Level), University of Houston, *Spring 2024*
 
-Principles of Microeconomics (Undergraduate Level), University of Houston, *Spring 2024*
+**Instructor**, **Ph.D. Math Camp**, University of Houston, *Summer 2021, Summer 2022, Summer 2023*
 
-**Ph.D. Math Camp**, University of Houston, *Summer 2021, Summer 2022, Summer 2023*
+Teaching Assistant, Econometrics I **(Ph.D.)**, Prof. Nathan J. Canen, University of Houston, *Spring 2022*
 
-### Teaching Assistant 
+Teaching Assistant, Microeconomics I **(Ph.D.)**, Prof. Janet E. Kohlhase, University of Houston, *Fall 2021*
 
-Econometrics I **(Ph.D.)**, Prof. Nathan J. Canen, University of Houston, *Spring 2022*
-
-Microeconomics I **(Ph.D.)**, Prof. Janet E. Kohlhase, University of Houston, *Fall 2021*
-
-Prof. Eleanor Jawon Choi, Hanyang University, *Mar 2017 - Jul 2018*
+Teaching Assistant, Prof. Eleanor Jawon Choi, Hanyang University, *Mar 2017 - Jul 2018*
 - Courses: Applied Econometrics **(Graduate)**, Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development 
 
 ### Working Experience 
