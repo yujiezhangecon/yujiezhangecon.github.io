@@ -14,7 +14,8 @@ author_profile: true
 
 ### Working Papers
 
-"The Long-Term Human Capital Consequences of Natural Disasters: Evidence from India" _[Job Market Paper; draft coming soon]_
+["The Long-Term Human Capital Consequences of Natural Disasters: Evidence from India"](https://yujiezhangecon.github.io/files/DisasterIndiaHC_Zhang.pdf) _[Job Market Paper]_
+- [Draft (2024 Nov)](https://yujiezhangecon.github.io/files/DisasterIndiaHC_Zhang.pdf); [Poster](https://yujiezhangecon.github.io/files/prj_DIL/NoLogo_Yujie_Poster_STATA_2024.pdf)
 - Presentations:
 [2024 STATA Texas Empirical Microeconomics Conference](https://www.dallasfed.org/research/events/2024/24stata);
 [SEA 2024](https://sea.mymeetingsavvy.net/program);
