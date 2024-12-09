@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/) on 2024-2025 job market.
-My research interests lie in the fields of Applied Development Economics. My recent research explores the intersections between environmental issues, human capital, and social inequality through transnational comparative studies and large-scale data analysis. 
+I am a Ph.D. Candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/), currently on the 2024-2025 job market.
+My research interests lie in the fields of Development Economics, with a particular focus on environment, health, and education. My recent research explores the intersections between climate change, human capital, and social inequality through transnational comparative studies and large-scale data analysis. 
 
 <!---
 My research encompasses environment, health, education, labor, and inequality, particularly in developing countries. Recent work investigates the short- and long-term effects of climatic shocks on human capital, highlighting disparities by gender and socio-economic status. 
