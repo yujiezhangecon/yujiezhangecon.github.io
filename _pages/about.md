@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a fifth-year Ph.D. Candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/). 
-My research interests lie in the fields of Development Economics, with a particular focus on environment, health, and education. My recent research explores the intersections between climate change, human capital, and social inequality through transnational comparative studies and large-scale data analysis. 
+My research interests lie in the fields of Development Economics. My recent research explores the intersections between climate change, human capital, and social inequality through transnational comparative studies and large-scale data analysis. 
 
 <!---
 My research encompasses environment, health, education, labor, and inequality, particularly in developing countries. Recent work investigates the short- and long-term effects of climatic shocks on human capital, highlighting disparities by gender and socio-economic status. 
