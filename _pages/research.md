@@ -43,10 +43,11 @@ with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Rev
 
 ### Work in Progress
 
-"Population Burden of Rising Heat Stress and Pollution Risks", with Minhaj Mahmud 
+"Population Burden of Rising Heat Stress and Pollution Risks: Evidence from Selected Asian Countries", with Minhaj Mahmud 
 - Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
         (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/)
 - Presentation:
+Asian Development Bank Economists' Forum 2025; 
 [PAA Applied Demography Conference 2025](https://www.populationassociation.org/adc/home)
 
 "The Effect of Children Gender on Younger Siblings' Health Outcomes"
