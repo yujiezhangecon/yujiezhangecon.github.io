@@ -23,7 +23,7 @@ I also work with [Minhaj Mahmud](https://blogs.adb.org/author/minhaj-mahmud) on 
 
 Please view my <a href="/YujieZhang_CV.pdf">CV in English</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
 
-请点击此链接查看：<a href="/YujieZhang_CV_CHN.pdf">中文简历</a>，或访问 [简历页面](https://yujiezhangecon.github.io/cv/)。
+请点击此链接查看：<a href="/YujieZhang_CV_CHN.pdf">张玉洁 中文简历</a>，或访问 [简历页面](https://yujiezhangecon.github.io/cv/)。
 
 <!-- 
 Please view my <a href="/YujieZhang_CV.pdf">CV</a> and <a href="/YujieZhang_Resume.pdf">Resume</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
