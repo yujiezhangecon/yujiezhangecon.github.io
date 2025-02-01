@@ -19,7 +19,8 @@ Working Experience
 ------
 --->
 
-**Download Link: <a href="/YujieZhang_CV.pdf">CV</a>.**
+**Download Link for CV in English: <a href="/YujieZhang_CV.pdf">CV in English</a>.**
+**中文简历下载链接: <a href="/YujieZhang_CV_CHN.pdf">中文简历</a>.**
 
 ### Education 
 
