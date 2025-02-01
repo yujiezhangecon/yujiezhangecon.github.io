@@ -19,8 +19,11 @@ My Job Market Paper investigates the long-term effects of natural disasters on e
 I collaborate with [Jere R. Behrman](https://economics.sas.upenn.edu/people/jere-r-behrman), [Emily Hannum](https://sociology.sas.upenn.edu/people/emily-hannum), and [Fan Wang](https://fanwangecon.github.io/), alongside scholars from institutes such as the University of Pennsylvania and the Inter-American Development Bank, to explore climate risk, pollution, and childhood inequalities in low- and middle-income countries, sponsored by the [U.S. National Science Foundation - PIRE](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0). 
 I also work with [Minhaj Mahmud](https://blogs.adb.org/author/minhaj-mahmud) on temperature, pollution, and social welfare for the [Asian Development Bank](https://www.adb.org/).
 
-I am on the 2024-2025 job market.
-Please view my <a href="/YujieZhang_CV.pdf">CV</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
+**I am on the 2024-2025 job market.**
+
+Please view my <a href="/YujieZhang_CV.pdf">CV in English</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
+
+请点击此链接查看：<a href="/YujieZhang_CV_CHN.pdf">中文简历</a>，或访问 [简历页面](https://yujiezhangecon.github.io/cv/)。
 
 <!-- 
 Please view my <a href="/YujieZhang_CV.pdf">CV</a> and <a href="/YujieZhang_Resume.pdf">Resume</a>, or visit this [CV page](https://yujiezhangecon.github.io/cv/). 
