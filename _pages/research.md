@@ -20,7 +20,11 @@ author_profile: true
 [2024 STATA Texas Empirical Microeconomics Conference](https://www.dallasfed.org/research/events/2024/24stata);
 [SEA 2024](https://sea.mymeetingsavvy.net/program);
 [AASLE 2024](https://www.aasle.org/bangkok-conference-info);
-[PAA 2025](https://www.populationassociation.org/paa2025/home)
+[PAA 2025](https://www.populationassociation.org/paa2025/home);
+[MR2025 Columbia Climate School](https://www.climate.columbia.edu/events/mr2025-mobility-adaptation-and-wellbeing-changing-climate);
+[AEDC 2025](https://adb.eventsair.com/asian-economic-development-conference-2025/);
+[2025 World Congress of the Econometric Society (ESWC 2025)](https://www.econometricsociety.org/regional-activities/schedule/2025/08/18/2025-World-Congress-Seoul-Korea)
+
 
 
 ["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf),
@@ -48,7 +52,10 @@ with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Rev
         (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/)
 - Presentation:
 Asian Development Bank Economists' Forum 2025; 
-[PAA Applied Demography Conference 2025](https://www.populationassociation.org/adc/home)
+[PAA Applied Demography Conference 2025](https://www.populationassociation.org/adc/home);
+[MR2025 Columbia Climate School](https://www.climate.columbia.edu/events/mr2025-mobility-adaptation-and-wellbeing-changing-climate);
+[AEDC 2025](https://adb.eventsair.com/asian-economic-development-conference-2025/)
+
 
 "The Effect of Children Gender on Younger Siblings' Health Outcomes"
 - Data: [Demographic and Health Surveys (DHS)](https://dhsprogram.com/data/)
