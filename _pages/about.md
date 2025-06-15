@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. Candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/). 
+I received my Ph.D. in Economics from the [University of Houston](https://www.uh.edu/class/economics/) in 2025. I will join the [Population Studies Center (PSC) at the University of Pennsylvania](https://www.pop.upenn.edu/) as a postdoctoral research fellow in 2025 Fall. 
+
 My research interests lie in the fields of Development Economics. My recent research uses Applied Microeconomics to explore the intersections between climate change, human capital, and social inequality through transnational comparative studies and large-scale data analysis. 
 
 <!---
 My research encompasses environment, health, education, labor, and inequality, particularly in developing countries. Recent work investigates the short- and long-term effects of climatic shocks on human capital, highlighting disparities by gender and socio-economic status. 
 --->
 
-My Job Market Paper investigates the long-term effects of natural disasters on education, health, and labor outcomes, highlighting disparities by gender and socio-economic status.
+My recent paper investigates the long-term effects of natural disasters on education, health, and labor outcomes, highlighting disparities by gender and socio-economic status.
 I collaborate with [Jere R. Behrman](https://economics.sas.upenn.edu/people/jere-r-behrman), [Emily Hannum](https://sociology.sas.upenn.edu/people/emily-hannum), and [Fan Wang](https://fanwangecon.github.io/), alongside scholars from institutes such as the University of Pennsylvania and the Inter-American Development Bank, to explore climate risk, pollution, and childhood inequalities in low- and middle-income countries, sponsored by the [U.S. National Science Foundation - PIRE](https://beta.nsf.gov/funding/opportunities/partnerships-international-research-education-pire-0). 
 I also work with [Minhaj Mahmud](https://blogs.adb.org/author/minhaj-mahmud) on temperature, pollution, and social welfare for the [Asian Development Bank](https://www.adb.org/).
 
