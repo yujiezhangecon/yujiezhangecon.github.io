@@ -23,10 +23,13 @@ Working Experience
 
 **Download Link: <a href="/YujieZhang_CV.pdf">CV in English</a>.**
 
+### Position
+
+Postdoctoral Fellow, [Population Studies Center, University of Pennsylvania](https://www.pop.upenn.edu/), US, *Aug 2025 -* 
 
 ### Education 
 
-Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US, *2025 (Expected)* 
+Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US, *2025* 
 
 M.A. in Economics and Finance, [Hanyang University](https://econ.hanyang.ac.kr/), Korea, *2018*
 
