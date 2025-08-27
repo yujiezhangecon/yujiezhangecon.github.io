@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yujie Zhang"
 title_separator          : "-"
 name                     : &name "Yujie Zhang"
-description              : &description "I am a Ph.D. student in Economics at the University of Houston. I am interested in Applied Microeconomics, Health, Environment, Education, Family, and Gender."
+description              : &description "I am a Postdoc at the University of Pennsylvania. I am interested in Development Economics (Health, Environment, Education)."
 url                      : https://yujiezhangecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yujiezhangecon/yujiezhangecon.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yujie Zhang"
   avatar           : "profile_YujieZhang.jpg"
-  bio              : "Economics Ph.D. Candidate at University of Houston"
-  location         : "Houston, TX, US"
+  bio              : "Postdoc at University of Pennsylvania"
+  location         : "Philadelphia, PA, US"
   employer         : 
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
