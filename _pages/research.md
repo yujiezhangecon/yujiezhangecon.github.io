@@ -47,8 +47,7 @@ with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Rev
 --->
 
 
-"[Heat Stress, Air Pollution Risk, and Population Exposure:  
-Evidence from Selected Asian Countries](https://www.adb.org/publications/heat-stress-air-pollution-risk)", with Minhaj Mahmud 
+"[Heat Stress, Air Pollution Risk, and Population Exposure: Evidence from Selected Asian Countries](https://www.adb.org/publications/heat-stress-air-pollution-risk)", with Minhaj Mahmud 
 - [ADB Economics Working Paper Series (Jan 2026)](https://www.adb.org/publications/heat-stress-air-pollution-risk); [Slides](http://yujiezhangecon.github.io/files/prj_hotasia/hotAsia_slides_202506_15min_MR2025.pdf)
 - Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
         (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/);
