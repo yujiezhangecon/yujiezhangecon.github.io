@@ -10,6 +10,8 @@ author_profile: true
 ## Instructor
 --->
 
+**Instructor**, Econometric Methods and Models, University of Pennsylvania, US, _Fall 2025, Spring 2025, Fall 2026, Spring 2027_ 
+
 **Instructor**, Principles of Microeconomics, University of Houston, US, _Spring 2024_ 
 * [Evaluation](http://yujiezhangecon.github.io/files/teaching/PrincipleMicro_24Spring/2220_14342_Course_Evaluation_Report.pdf): Outperformed the department/college averages in 8 out of 14 questions; 80+ students; [Syllabus](http://yujiezhangecon.github.io/files/teaching/PrincipleMicro_24Spring/Syllabus_ECON2302_S24_YujieZhang.pdf); [Reflection on teaching](https://yujiezhang.notion.site/Reflection-on-Teaching-105791a2351880bd84f1efc28b6e6ed3).
 
