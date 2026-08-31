@@ -49,7 +49,7 @@ with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Rev
 
 "[Heat Stress, Air Pollution Risk, and Population Exposure:  
 Evidence from Selected Asian Countries](https://www.adb.org/publications/heat-stress-air-pollution-risk)", with Minhaj Mahmud 
-- [ADB Economics Working Paper Series](https://www.adb.org/publications/heat-stress-air-pollution-risk); [Slides](http://yujiezhangecon.github.io/files/prj_hotasia/hotAsia_slides_202506_15min_MR2025.pdf)
+- [ADB Economics Working Paper Series (Jan 2026)](https://www.adb.org/publications/heat-stress-air-pollution-risk); [Slides](http://yujiezhangecon.github.io/files/prj_hotasia/hotAsia_slides_202506_15min_MR2025.pdf)
 - Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
         (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/);
         (3) [Census data](https://international.ipums.org/international/)
@@ -71,5 +71,12 @@ Asian Development Bank Economists' Forum 2025;
 
 ### Publications
 
+Behrer, A. Patrick, R. Jisung Park, and Yujie Zhang. 2026. “Climate Change and Human Capital.” In _Handbook of the Economics of Climate Change Volume 2_, edited by Lint Barrage and Solomon Hsiang, 2:385–456. Handbook of the Economics of Climate Change. North-Holland, January. https://doi.org/10.1016/bs.hesecc.2026.03.001.
+
+Zhang, Yujie, and Deokwoo Nam. 2022. “News-Driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns.” _JOURNAL OF ECONOMIC RESEARCH_ 27, no. 1 (May): 1–22. [_[Journal link]_](https://papersearch.net/thesis/article.asp?key=3948237)
+
+
+<!---
 ["News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns"](http://yujiezhangecon.github.io/files/ZhangNam.pdf), 
 with Deokwoo Nam, _Journal of Economic Research_, 2022, 27(1), 1-22 [_[Journal link]_](https://papersearch.net/thesis/article.asp?key=3948237)
+--->
