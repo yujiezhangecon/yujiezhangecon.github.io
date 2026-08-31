@@ -15,7 +15,7 @@ author_profile: true
 ### Working Papers
 
 ["The Long-Term Human Capital Consequences of Natural Disasters: Evidence from India"](https://yujiezhangecon.github.io/files/DisasterIndiaHC_Zhang.pdf) _[Job Market Paper]_
-- [Draft (2024 Nov)](https://yujiezhangecon.github.io/files/DisasterIndiaHC_Zhang.pdf); [Slides](https://yujiezhangecon.github.io/files/prj_DIL/Slides_DIL_20250312.pdf); [Poster](https://yujiezhangecon.github.io/files/prj_DIL/NoLogo_Yujie_Poster_STATA_2024.pdf)
+- [Draft (Nov 2024)](https://yujiezhangecon.github.io/files/DisasterIndiaHC_Zhang.pdf); [Slides](https://yujiezhangecon.github.io/files/prj_DIL/Slides_DIL_20250312.pdf); [Poster](https://yujiezhangecon.github.io/files/prj_DIL/NoLogo_Yujie_Poster_STATA_2024.pdf)
 - Presentations:
 [2024 STATA Texas Empirical Microeconomics Conference](https://www.dallasfed.org/research/events/2024/24stata);
 [SEA 2024](https://sea.mymeetingsavvy.net/program);
@@ -27,9 +27,9 @@ author_profile: true
 
 
 
-["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf),
+["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](https://www.adb.org/publications/are-natural-disasters-disastrous-for-education-evidence-from-seven-asian-countries),
 with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Revise & Resubmit, Economics of Education Review**_
-- [Draft (2024 July)](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf); [Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf) <br>
+- [ADBI Working Papers (Feb 2025)](https://www.adb.org/publications/are-natural-disasters-disastrous-for-education-evidence-from-seven-asian-countries); [Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf) <br>
 - Presentations: 
 [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific); 
 [PDRI-DevLab Workshop Series](https://pdri-devlab.upenn.edu/event/pdri-devlab-workshop-series-emily-hannum/); 
@@ -41,23 +41,28 @@ with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Rev
 [AEDC 2024](https://adb.eventsair.com/asian-economic-development-conference-2024) [(session)](http://yujiezhangecon.github.io/files/PrjRDSE/AEDC2024_ProgramBook.pdf)
 
 <!---
+[Draft (2024 July)](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf); 
 [PAS 2024](https://www.sgpopulation.org/pas-2024), 
 [SEHO 2024](https://economics.smu.edu.sg/conference/seho2024), 
 --->
 
-### Work in Progress
 
-"Population Burden of Rising Heat Stress and Pollution Risks: Evidence from Selected Asian Countries", with Minhaj Mahmud 
+"[Heat Stress, Air Pollution Risk, and Population Exposure:  
+Evidence from Selected Asian Countries](https://www.adb.org/publications/heat-stress-air-pollution-risk)", with Minhaj Mahmud 
+- [ADB Economics Working Paper Series](https://www.adb.org/publications/heat-stress-air-pollution-risk); [Slides](http://yujiezhangecon.github.io/files/prj_hotasia/hotAsia_slides_202506_15min_MR2025.pdf)
 - Data: (1) [ERA5-HEAT temperature data](https://cds-beta.climate.copernicus.eu/datasets/derived-utci-historical?tab=overview); 
-        (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/)
-- Presentation:
+        (2) [Satellite-derived PM2.5 data](https://sites.wustl.edu/acag/datasets/surface-pm2-5/);
+        (3) [Census data](https://international.ipums.org/international/)
+- Presentations:
 Asian Development Bank Economists' Forum 2025; 
 [PAA Applied Demography Conference 2025](https://www.populationassociation.org/adc/home);
 [MR2025 Columbia Climate School](https://www.climate.columbia.edu/events/mr2025-mobility-adaptation-and-wellbeing-changing-climate);
 [AEDC 2025](https://adb.eventsair.com/asian-economic-development-conference-2025/)
 
+### Work in Progress
 
-"The Effect of Children Gender on Younger Siblings' Health Outcomes"
+
+"The Effect of Children's Gender on Younger Siblings' Health Outcomes"
 - Data: [Demographic and Health Surveys (DHS)](https://dhsprogram.com/data/)
 
 <!---
