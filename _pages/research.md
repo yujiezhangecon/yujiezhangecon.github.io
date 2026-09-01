@@ -28,7 +28,7 @@ author_profile: true
 
 
 ["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](https://www.adb.org/publications/are-natural-disasters-disastrous-for-education-evidence-from-seven-asian-countries),
-with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Revise & Resubmit, Economics of Education Review**_
+with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Jul 2026_, _**Revise & Resubmit, Economics of Education Review**_
 - [ADBI Working Papers (Feb 2025)](https://www.adb.org/publications/are-natural-disasters-disastrous-for-education-evidence-from-seven-asian-countries); [Slides](http://yujiezhangecon.github.io/files/PrjRDSE/ADBI_MICS_presentation_AEDC2024.pdf) <br>
 - Presentations: 
 [ADBI Conference on Increasing the Resilience of Education Systems in Asia and the Pacific](https://www.adb.org/news/events/increasing-the-resilience-of-education-systems-in-asia-and-the-pacific); 
@@ -70,7 +70,7 @@ Asian Development Bank Economists' Forum 2025;
 
 ### Publications
 
-Behrer, A. Patrick, R. Jisung Park, and Yujie Zhang. 2026. “Climate Change and Human Capital.” In _Handbook of the Economics of Climate Change Volume 2_, edited by Lint Barrage and Solomon Hsiang, 2:385–456. Handbook of the Economics of Climate Change. North-Holland, January. https://doi.org/10.1016/bs.hesecc.2026.03.001.
+Behrer, A. Patrick, R. Jisung Park, and Yujie Zhang. 2026. “Climate Change and Human Capital.” In _Handbook of the Economics of Climate Change Volume 2_, edited by Lint Barrage and Solomon Hsiang, 2:385–456. Handbook of the Economics of Climate Change. North-Holland, January. [_[Journal link]_](https://doi.org/10.1016/bs.hesecc.2026.03.001).
 
 Zhang, Yujie, and Deokwoo Nam. 2022. “News-Driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns.” _JOURNAL OF ECONOMIC RESEARCH_ 27, no. 1 (May): 1–22. [_[Journal link]_](https://papersearch.net/thesis/article.asp?key=3948237)
 
