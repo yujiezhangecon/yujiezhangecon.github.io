@@ -40,7 +40,7 @@ B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/
 "The Long-Term Human Capital Consequences of Natural Disasters: Evidence from India" _[Job Market Paper; draft coming soon]_
 
 ["Are Natural Disasters Disastrous for Learning? Evidence from Seven Asian Countries"](http://yujiezhangecon.github.io/files/DisasterEducationAsiaMicsEmDat_ZhangEtal.pdf),
-with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Sep 2024_, _**Revise & Resubmit, Economics of Education Review**_
+with Jere Behrman, Emily Hannum, Minhaj Mahmud, and Fan Wang, _Jul 2026_, _**Revise & Resubmit, Economics of Education Review**_
 
 ### [Research Experience](https://yujiezhangecon.github.io/research/)
 
